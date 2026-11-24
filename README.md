@@ -136,7 +136,7 @@ CodeX bridges the gap between Windows and Apple's development ecosystem through 
 3. Complete the wizard — WSL, Ubuntu, and the Darwin SDK are configured automatically.
 4. If a reboot is required for WSL, the setup resumes automatically after restart.
 
-> The installer bundles a pre-built Darwin iOS SDK (~659 MB `darwin.xtoolsdk`). No separate Xcode download is necessary.
+> **Note on Bundled SDKs & Evaluation:** CodeX preview builds (`v1.148.0`) operate under [DISCLAIMER.md](DISCLAIMER.md). Third-party runtime modules, Apple SDK tooling (`darwin.xtoolsdk`), and Copilot integrations carry separate third-party licensing terms and commercial redistribution restrictions documented in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) and [LICENSE-AUDIT.md](LICENSE-AUDIT.md).
 
 ---
 
@@ -320,11 +320,26 @@ Windows 10 version 2004 (build 19041) or later, and Windows 11. Both x64 archite
 
 ---
 
-## License
+## License & Legal Documentation
 
-Copyright (c) 2026 Alperen Akkaya. All Rights Reserved.
+Copyright © 2026 **Alperen AKKAYA**. All Rights Reserved.
 
-CodeX is distributed under the [CodeX Proprietary & Commercial License](licenses/LICENSE). See [THIRD_PARTY_NOTICES.md](licenses/THIRD_PARTY_NOTICES.md) for third-party attributions.
+CodeX is closed-source proprietary commercial software distributed under the [CodeX Proprietary Software License](LICENSE) and the [End User License Agreement (EULA v1.0)](EULA.md), supporting **Individual Subscription**, **Enterprise License**, and **Lifetime License** plans ([LICENSING.md](LICENSING.md)).
+
+| Document | Scope |
+|---|---|
+| [LICENSE](LICENSE) | Proprietary Software License + EULA v1.0 summary (`All Rights Reserved`) |
+| [EULA.md](EULA.md) | End User License Agreement v1.0 (Governing Law: Republic of Türkiye) |
+| [LICENSING.md](LICENSING.md) | Commercial Licensing Models (Individual, Enterprise, Lifetime) |
+| [COPYRIGHT.md](COPYRIGHT.md) | Ownership boundaries between original CodeX works and upstream OSS |
+| [DISCLAIMER.md](DISCLAIMER.md) | Beta/experimental notice, warranty disclaimer, and statutory savings |
+| [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) | Verified third-party attributions (`VS Code`, `Electron`, `Chromium`, `Node.js`, `FFmpeg`, `xTool`, 195 runtime modules) |
+| [LICENSE-AUDIT.md](LICENSE-AUDIT.md) | Dependency & binary compliance audit and distribution review flags |
+
+Third-party open-source and third-party licensed components retain their original copyright notices and license terms; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md), [ThirdPartyNotices.txt](ThirdPartyNotices.txt), and `LICENSES.chromium.html`.
+
+- **Developer:** Alperen AKKAYA
+- **Repository:** <https://github.com/AlperenAKKAYA99/CodeX>
 
 ---
 
