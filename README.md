@@ -320,41 +320,6 @@ Windows 10 version 2004 (build 19041) or later, and Windows 11. Both x64 archite
 
 ---
 
-## Project Structure
-
-```
-CodeX/
-├── resources/
-│   └── tools/
-│       ├── xtool/              # xTool CLI bridge and binaries
-│       │   └── bin/
-│       │       ├── xtool-bridge.mjs   # Windows ↔ WSL bridge
-│       │       └── extract-sdk.py     # Python SDK extractor (WSL1 compat)
-│       ├── darwin.xtoolsdk     # Pre-built iOS Darwin SDK archive
-│       └── install-wsl.cmd     # WSL + Ubuntu auto-installer
-├── extensions/
-│   ├── swift-language-features/   # Core Apple development extension
-│   │   ├── src/
-│   │   │   ├── apple/          # Simulator service, Xcode integration
-│   │   │   ├── bsp/            # Build Server Protocol client
-│   │   │   ├── debug/          # LLDB DAP and iOS debug providers
-│   │   │   ├── device/         # Syslog streamer
-│   │   │   ├── language/       # SourceKit-LSP manager
-│   │   │   ├── lint/           # SwiftLint and formatting
-│   │   │   ├── runner/         # xTool CLI runner
-│   │   │   ├── simulator/      # SwiftUI parser, renderer, state engine
-│   │   │   └── ui/             # Device, project, developer managers
-│   │   └── dist/               # Compiled extension bundle
-│   ├── cpp/                    # C/C++/Metal language support
-│   ├── arm64/                  # ARM64 assembly support
-│   └── codex-language-pack-*/  # UI language packs (6 languages)
-├── docs/
-│   └── images/                 # README screenshots
-└── licenses/                   # Legal documentation
-```
-
----
-
 ## License
 
 Copyright (c) 2026 Alperen Akkaya. All Rights Reserved.
