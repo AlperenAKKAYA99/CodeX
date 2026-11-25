@@ -1,0 +1,159 @@
+PROPRIETARY SOFTWARE LICENSE
+
+CodeX
+
+Copyright (c) 2026 Alperen AKKAYA. All Rights Reserved.
+
+CodeX is proprietary software developed and owned by Alperen AKKAYA.
+
+Unless explicitly authorized in writing by the copyright holder, the following activities are strictly prohibited:
+
+- Copying, reproducing, or redistributing the software.
+- Modifying, adapting, or creating derivative works.
+- Reverse engineering, decompiling, or disassembling the software, except where expressly permitted by applicable law or applicable third-party open-source license terms.
+- Selling, sublicensing, renting, or commercially distributing the software.
+- Publishing, sharing, or making the source code available to unauthorized parties.
+- Using the software or its components to create competing products without authorization.
+
+Commercial Use
+
+Commercial use, redistribution, deployment, or integration of CodeX into third-party products requires a separate written commercial agreement or explicit authorization from the copyright holder.
+
+Beta Access
+
+Access to beta versions is provided solely for evaluation and testing purposes. Beta access does not grant ownership, redistribution rights, or any commercial usage rights.
+
+Third-Party Components
+
+CodeX incorporates or depends on third-party open-source software and libraries, including components distributed under the MIT License, Apache License 2.0, BSD licenses, ISC, Mozilla Public License 2.0, GNU Lesser General Public License (LGPL-2.1+), and other third-party licenses.
+
+Such components remain subject to their respective original licenses. All applicable copyright notices, license texts, and attribution requirements are preserved in ThirdPartyNotices.txt, licenses/THIRD-PARTY-NOTICES.md, THIRD-PARTY-NOTICES.md, and LICENSES.chromium.html.
+
+This proprietary license applies solely to the original proprietary components, customizations, branding, and compiled commercial distribution of CodeX, and does not override or limit rights granted under applicable third-party open-source licenses. Notwithstanding any restriction above, where required by LGPL-licensed components (such as dynamically linked FFmpeg libraries or jschardet), users retain rights to modify such LGPL components for personal use, replace dynamically linked LGPL shared libraries, and perform reverse engineering solely to the extent required to debug such modifications. Proprietary third-party SDKs or services remain subject to their respective owners' terms.
+
+Ownership
+
+All rights, title, and interest in the original CodeX software, including its source code, architecture, original algorithms, branding, user interface designs, and documentation, remain with Alperen AKKAYA. CodeX does not claim exclusive ownership over upstream third-party components (including Microsoft Visual Studio Code (Code - OSS), xTool, Chromium, Electron, or Node.js).
+
+Disclaimer
+
+The software is provided "AS IS", without warranties of any kind, to the maximum extent permitted by applicable law. See DISCLAIMER.md for additional notices.
+
+Contact
+
+For commercial licensing, redistribution permissions, or other licensing inquiries:
+
+Developer: Alperen AKKAYA
+Project: CodeX
+Repository: https://github.com/AlperenAKKAYA99/CodeX
+
+ALL RIGHTS RESERVED.
+
+================================================================================
+
+CodeX - END USER LICENSE AGREEMENT (EULA)
+
+Version: 1.0
+Copyright (c) 2026 Alperen AKKAYA. All Rights Reserved.
+
+1. Ownership
+
+CodeX is proprietary software developed and owned by Alperen AKKAYA ("Developer").
+
+All rights, title, and interest in the original proprietary components of CodeX, including its source code, architecture, design, documentation, branding, and original implementations, remain the exclusive property of the Developer.
+
+No ownership rights are transferred to the Licensee under this Agreement.
+
+2. License Grant
+
+Subject to the applicable payment and licensing conditions, the Developer grants the Licensee a limited, non-exclusive, non-transferable, and revocable license to use CodeX in accordance with the selected licensing plan.
+
+This Agreement does not grant access to the proprietary source code.
+
+3. Licensing Plans
+
+3.1 Individual Subscription
+- Available through monthly or annual subscription plans.
+- Intended primarily for individual users.
+- Usage rights remain active while the subscription is valid.
+- Access may be suspended or terminated following subscription expiration or violation of this Agreement.
+
+3.2 Enterprise License
+- Intended for businesses, organizations, and institutions.
+- Pricing, permitted users, devices, installations, deployment rights, and usage limitations are defined in a separate commercial agreement.
+- Enterprise usage rights are limited to the scope expressly authorized in the applicable agreement.
+
+3.3 Lifetime License
+- Granted in exchange for a one-time payment.
+- Provides perpetual usage rights within the scope of the purchased license.
+- Does not automatically include lifetime updates, technical support, cloud services, or future major versions unless explicitly stated in writing.
+- Remains subject to this Agreement and applicable license restrictions.
+
+4. Restrictions
+
+Unless expressly authorized in writing by the Developer, the Licensee may not:
+
+- Copy, redistribute, resell, rent, sublicense, or commercially exploit CodeX outside the granted license.
+- Modify, reverse engineer, decompile, or disassemble the proprietary components, except where applicable law or applicable third-party open-source licenses permit.
+- Remove copyright notices, trademarks, or proprietary identification.
+- Publish or distribute unauthorized copies of the software.
+- Attempt to obtain or disclose proprietary source code.
+- Circumvent license verification, activation, or access control mechanisms.
+
+5. Updates and Support
+
+The Developer may release updates, patches, improvements, and new versions at its discretion.
+
+Update eligibility and technical support depend on the selected licensing plan and any applicable commercial agreement.
+
+The Developer does not guarantee that every future version or feature will be included in an existing license.
+
+6. Third-Party Components
+
+CodeX may include or depend on third-party software and open-source components.
+
+Such components remain subject to their respective licenses, including MIT, Apache 2.0, BSD, ISC, MPL-2.0, LGPL-2.1+, or other applicable third-party agreements.
+
+Nothing in this Agreement overrides the rights granted by those third-party licenses. In particular, to the extent required by GNU Lesser General Public License (LGPL) components included in the distribution, reverse engineering strictly limited to debugging modifications to those LGPL libraries and replacement of dynamically linked LGPL libraries remain permitted.
+
+All legally required copyright notices, license texts, and attribution requirements must be preserved.
+
+7. Disclaimer of Warranty
+
+CodeX is provided "AS IS" and "AS AVAILABLE", to the maximum extent permitted by applicable law.
+
+The Developer does not guarantee uninterrupted operation, error-free performance, compatibility with all environments, or fitness for a particular purpose.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Developer shall not be liable for indirect, incidental, special, or consequential damages arising from the use or inability to use CodeX.
+
+Nothing in this Agreement excludes or limits liability that cannot legally be excluded or limited under mandatory law, including mandatory consumer protection or product liability provisions.
+
+9. Termination
+
+The Developer may suspend or terminate a license in the event of a material breach of this Agreement, subject to applicable law and any mandatory notice or remedy requirements.
+
+Upon termination, the Licensee must discontinue use of the affected software and remove unauthorized copies, subject to applicable legal retention requirements.
+
+10. Amendments
+
+The Developer reserves the right to update this Agreement for future releases and purchases.
+
+Changes will not retroactively remove rights that have already been granted, except where permitted by applicable law or agreed by the parties.
+
+11. Governing Law
+
+This Agreement shall be governed by the laws of the Republic of Turkiye, subject to mandatory consumer protection rules and other applicable legal requirements.
+
+12. Contact and Licensing
+
+Developer: Alperen AKKAYA
+Product: CodeX
+Official Repository: https://github.com/AlperenAKKAYA99/CodeX
+
+For commercial licensing, enterprise agreements, or licensing inquiries, contact the Developer through the official project channels.
+
+ALL RIGHTS RESERVED.
+
+Unauthorized use, redistribution, or commercial exploitation outside the granted license is prohibited.
